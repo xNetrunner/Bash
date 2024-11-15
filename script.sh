@@ -1,6 +1,5 @@
 #!/bin/bash
 
-
 cd "Документы"
 mkdir "New"
 touch New/index.html
